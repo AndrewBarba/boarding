@@ -173,7 +173,7 @@ From time to time there will be updates to `boarding`. There are 2 ways to updat
 ### Using Heroku website
 
 * Delete your application on [heroku.com](https://www.heroku.com/)
-* [Create a new boarding application](https://www.heroku.com/deploy?template=https://github.com/fastlane/boarding)
+* [Create a new boarding application](https://www.heroku.com/deploy?template=https://github.com/Barstool/boarding)
 * Enter your user credentials again
 
 ### Using Azure website
